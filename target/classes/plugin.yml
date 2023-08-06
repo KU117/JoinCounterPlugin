@@ -1,0 +1,4 @@
+name: JoinCount
+version: '1.0'
+main: me.imbestpumpkin.joincount.main.JoinCount
+api-version: '1.20'
